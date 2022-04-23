@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+sqlalchemy
+fastapi
+pydantic
+psycopg2
