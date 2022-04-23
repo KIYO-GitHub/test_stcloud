@@ -4,4 +4,4 @@ requests
 sqlalchemy
 fastapi
 pydantic
-psycopg2
+psycopg2-binary
