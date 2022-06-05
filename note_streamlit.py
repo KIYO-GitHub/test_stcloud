@@ -19,7 +19,7 @@ def run_query(query):
         cur.execute(query)
         return cur.fetchall()
 
-rows = run_query("SELECT * from shop;")
+rows = run_query("SELECT * from sttbl1;") #Table名はPostgreSQLで作成したテーブル名
 
 # Print results.
 for row in rows:
